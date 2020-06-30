@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+  
+        <!-- Aqui vai ser inserido html de outras paginas com nunjucks -->
+        {% block head %}
+            <title>Private Classes</title>
+        {% endblock %}
+
+        <link rel="stylesheet" href="/styles.css">
+    </head>
+
+    <body>
+        <header>
+            <div class="links">
+                <a href="#" class="link1">Teachers</a>
+                <a href="#" class="link2">Students</a>
+            </div>
+        </header>
+
+        <!-- Aqui vai ser inserido html de outras paginas com nunjucks -->
+        {% block content %}       
+        {% endblock %}
+
+        <script src="scripts.js"></script>
+
+    </body>
+
+</html>

@@ -1,0 +1,14 @@
+{
+    "teachers": [
+        {
+            "id": 1,
+            "avatar_url": "https://unsplash.com/photos/P1vXpgpL208",
+            "name": "Pedro Afonso",
+            "birth": 629337600000,
+            "academic": "M",
+            "class_type": "O",
+            "services": "Math, Physics",
+            "created_at": 1593468663515
+        }
+    ]
+}
